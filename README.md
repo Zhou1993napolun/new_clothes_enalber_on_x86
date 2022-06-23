@@ -15,6 +15,9 @@ Like this:
 source activate 'your env environment name'
 ```
 
+The model path is here: https://pan.baidu.com/s/17VOAGPu8cPeO7bh27eeY_w , And the password is : 1234
+
+
 Then `cd` our file path,
 
 Like this:
