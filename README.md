@@ -16,7 +16,7 @@ source activate 'your env environment name'
 ```
 
 The model path is here: https://drive.google.com/file/d/1BBQPvkp-jwQNM2P-VJLGX101PlUhjpKN/view?usp=sharing
-
+Another link is : https://pan.baidu.com/s/1F3Ltc0XH1lMkdF_oDW55ZQ . And the password is : 1234.
 
 Then `cd` our file path,
 
