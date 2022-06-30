@@ -22,6 +22,11 @@ Another link is : https://pan.baidu.com/s/1F3Ltc0XH1lMkdF_oDW55ZQ . And the pass
 
 Then `cd` our file path,
 
+Add then use this command to install all the dependence:
+```shell
+pip install -r requirements.txt
+```
+
 Like this:
 
 ```shell
