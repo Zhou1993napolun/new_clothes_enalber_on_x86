@@ -24,7 +24,7 @@ Then `cd` our file path,
 
 Add then use this command to install all the dependence:
 ```shell
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 Like this:
